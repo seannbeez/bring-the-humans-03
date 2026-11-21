@@ -1,0 +1,8 @@
+# Kit, press assets and working files are not part of the entry.
+bring-the-humans-03-kit/
+kit.tar.gz
+press/
+work/
+fonts/
+out/
+transcripts.tar.gz
